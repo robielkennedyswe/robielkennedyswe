@@ -9,17 +9,15 @@ TODO...
 - 📚 Continuous learner always exploring new technologies and frameworks
 - 🤝 Open to collaborating on interesting projects
 
-## Featured Projects
-TODO...
+## Featured Project List
+TODO... Upload
 
-Description & Projects & (Fields intrested ?)
-Project List
-Start up Project -> Ideation stage
-Personal Projects (AI,ML)
-Capstone Final Project
-Safe Bet
-Python Project
-CSCI 1300 Project (maybe)
+- Start up Project -> Ideation stage
+- Personal Projects (AI,ML)
+- Capstone Final Project
+- Python Project
+- CSCI 1300 Project (maybe)
+- Safe Bet DONE
 
 ## Skills & Technologies
 TODO...
