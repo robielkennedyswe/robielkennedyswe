@@ -12,6 +12,15 @@ TODO...
 ## Featured Projects
 TODO...
 
+Description & Projects & (Fields intrested ?)
+Project List
+Start up Project -> Ideation stage
+Personal Projects (AI,ML)
+Capstone Final Project
+Safe Bet
+Python Project
+CSCI 1300 Project (maybe)
+
 ## Skills & Technologies
 TODO...
 
