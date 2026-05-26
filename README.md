@@ -14,10 +14,10 @@ TODO... Upload
 
 - Start up Project -> Ideation stage
 - Personal Projects (AI,ML)
-- Capstone Final Project
 - Python Project
 - CSCI 1300 Project (maybe)
-- Safe Bet DONE
+- Capstone Final Project (DONE)
+- Safe Bet (DONE)
 
 ## Skills & Technologies
 TODO...
