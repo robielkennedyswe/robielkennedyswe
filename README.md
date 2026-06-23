@@ -1,6 +1,6 @@
 # Hi, I'm Robiel Kennedy 👋
 
-Welcome to my GitHub profile! I'm a Software Engineer at BNY passionate about building scalable applications and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a Software Engineer at BNY passionate about building scalable applications and contributing to open-source projects. Intrested in roles in Software Engineering, AI Engineering, and Product Mangement.
 
 ## About Me
 TODO...
