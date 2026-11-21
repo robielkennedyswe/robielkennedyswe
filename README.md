@@ -23,7 +23,7 @@ A terminal game about hunting a hidden creature with limited information. Built 
 `Python` `C++`
  
 ## Skills
-**Languages:** Python, TypeScript/JavaScript, Java, C++, SQL
+**Languages:** Python, React, TypeScript/JavaScript, Angular, Java, C++, SQL
 
 **Frameworks:** React, Angular, FastAPI, Flask
 
