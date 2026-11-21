@@ -26,7 +26,9 @@ A terminal game about hunting a hidden creature with limited information. Built 
  
 ## Skills
 **Languages:** Python, TypeScript/JavaScript, Java, C++, SQL
+
 **Frameworks:** React, Angular, FastAPI, Flask
+
 **Cloud & tools:** AWS (Lambda, DynamoDB, API Gateway, Amplify), Azure, Docker, Render, Git
 
 
