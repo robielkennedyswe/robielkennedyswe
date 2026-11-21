@@ -22,8 +22,6 @@ Compares live sportsbook odds with sign-up promotions to find bets whose outcome
 A terminal game about hunting a hidden creature with limited information. Built for the COHRINT Lab challenge.
 `Python` `C++`
  
-**In progress:** a sneaker authentication app.
- 
 ## Skills
 **Languages:** Python, TypeScript/JavaScript, Java, C++, SQL
 
