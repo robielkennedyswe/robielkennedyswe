@@ -1,4 +1,4 @@
-# Hi, I'm Robiel Kennedy 👋
+<h1>Hey there, I'm Robiel Kennedy <img src="assets/wave.png" width="36" alt="waving hand"></h1>
  
 Software Engineer at **BNY**. I build Full-Stack Applications and AI-powered products and solving meaningful engineering problems. Always excited to learn, build, and connect with others who are passionate about technology.
  
