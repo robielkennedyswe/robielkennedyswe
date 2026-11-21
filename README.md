@@ -26,13 +26,10 @@ A terminal game about hunting a hidden creature with limited information. Built 
  
 ## Skills
 **Languages:** Python, TypeScript/JavaScript, Java, C++, SQL
-
 **Frameworks:** React, Angular, FastAPI, Flask
-
 **Cloud & tools:** AWS (Lambda, DynamoDB, API Gateway, Amplify), Azure, Docker, Render, Git
 
-**AI:** Claude API (vision, tool use), Model Context Protocol (MCP)
- 
+
 ## Contact
 [LinkedIn](https://linkedin.com/in/robielkennedy) · robiel.kennedy.info@gmail.com
  
