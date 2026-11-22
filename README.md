@@ -10,7 +10,7 @@ Software Engineer at **BNY**. I build Full-Stack Applications and AI-powered pro
 Makes any small shop buyable by AI agents. Seller photos → Claude-drafted listings → MCP server → PayPal checkout, with the buyer approving every payment.
 `Python` `FastAPI` `React` `TypeScript` `MCP` `Claude API` `PayPal` `Docker` · 73 backend tests
  
-### [Festo](https://github.com/robielkennedyswe/Senior-Capstone) · Senior capstone
+### [Festo](https://github.com/robielkennedyswe/Senior-Capstone) · [Live demo](https://main.dk56bc6kofaex.amplifyapp.com/epic/2034ac54-d270-49b3-aa5f-aee5107f3699)
 An AI assistant for product managers. Through a guided conversation, it turns a rough idea into Agile epics, features and user stories.
 `React` `Flask` `AWS Lambda` `API Gateway` `DynamoDB` `Amplify`
  
